@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Twisted-Supernova🤙
 
-<!--
-**Twisted-Supernova/Twisted-Supernova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏗️ IT Engineer by day, gremlin by night.
 
-Here are some ideas to get you started:
+I spend most of my time convincing people that the cloud is, in fact, not just someone else's computer and pastimeS include migrating anything that isn't nailed down to the cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Toolbox
+
+| Area | Tech |
+|------|------|
+| ☁️ **Cloud & Identity** | Azure, Microsoft 365, Entra ID, Exchange Online
+| 🖥️ **Infrastructure** | VMware, Active Directory, Networking, Storage SAN |
+| ⚡ **Automation & IaC** | PowerShell, Azure Bicep, Java, Visal Studo Code, Git
+| 🎫 **ITSM & Ops** | ServiceNow, Commvault Backup & Recovery, Veeam
+| 🛠️ **Scripting & Data** | PowerShell, Azure Shell
+
+## 📂 What You'll Find Here
+
+🔧 **PowerShell Scripts & Modules** — M365 admin tooling, Exchange Online management, API wrangling, and general Azure mischief
+📐 **Azure Bicep Templates** — Infrastructure-as-Code because clicking through the portal 47 times is not a deployment strategy
+🔄 **Automation Workflows** — Certificate lifecycle management, backup reporting, and operational runbooks that save future-me from past-me's problems
+
+## 🎯 Currently Keeping Me Busy
+
+- ☁️ Azure cloud migration — herding VMs northward
+- 🔐 Certificate management automation — because nothing says "Monday morning" like an expired cert
+- 💾 Commvault backup optimisation & reporting
+- 🆔 Infrastructure as Code (IaC)
+
+---
+
+*"It works on my machine" — then we'll ship your machine to Azure.* 🚀
