@@ -2,7 +2,7 @@
 
 🏗️ IT Engineer by day, gremlin by night.
 
-I spend most of my time convincing people that the cloud is, in fact, not just someone else's computer and pastimeS include migrating anything that isn't nailed down to the cloud.
+I spend most of my time convincing people that the cloud is, in fact, not just someone else's computer and pastimes include migrating anything that isn't nailed down to the cloud.
 
 ## 🧰 Toolbox
 
