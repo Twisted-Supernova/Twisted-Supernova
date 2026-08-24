@@ -1,32 +1,24 @@
-# Hey, I'm Twisted-Supernova🤙
+# Hi, I'm Twisted-Supernova🤙
 
-🏗️ IT Engineer by day, gremlin by night.
+IT by trade, tinkerer by habit.
 
-I spend most of my time convincing people that the cloud is, in fact, not just someone else's computer and pastimes include migrating anything that isn't nailed down to the cloud.
+I build small tools that solve real problems — usually because I got annoyed enough to fix it myself.
 
-## 🧰 Toolbox
+## What I'm into right now
 
-| Area | Tech |
-|------|------|
-| ☁️ **Cloud & Identity** | Azure, Microsoft 365, Entra ID, Exchange Online
-| 🖥️ **Infrastructure** | VMware, Active Directory, Networking, Storage SAN |
-| ⚡ **Automation & IaC** | PowerShell, Azure Bicep, Java, Visal Studo Code, Git
-| 🎫 **ITSM & Ops** | ServiceNow, Commvault Backup & Recovery, Veeam
-| 🛠️ **Scripting & Data** | PowerShell, Azure Shell
+- 🏠 **SDLT Calculator** — a React tool for working out UK Stamp Duty on house purchases, with proper band logic for different buyer types
+- 📡 **DNS & Email Auth Guides** — deep-dive write-ups on SPF, DKIM, DMARC and CAA, built straight from the RFCs
+- 🎛️ **Anki MPC One Sampler Emulator** — an emulator for the Akai MPC One's sampler
+- ⚽ **Subbuteo Game** — a digital take on the classic tabletop game
+- 💰 **Budget Flow** — a personal budgeting tool
+- 🚗 **Copart Car Screener** — a tool for filtering/screening cars on Copart
+- 📱 Exploring React Native / Capacitor to get some of these tools onto mobile
 
-## 📂 What You'll Find Here
+## Currently building
 
-🔧 **PowerShell Scripts & Modules** — M365 admin tooling, Exchange Online management, API wrangling, and general Azure mischief
-📐 **Azure Bicep Templates** — Infrastructure-as-Code because clicking through the portal 47 times is not a deployment strategy
-🔄 **Automation Workflows** — Certificate lifecycle management, backup reporting, and operational runbooks that save future-me from past-me's problems
-
-## 🎯 Currently Keeping Me Busy
-
-- ☁️ Azure cloud migration — herding VMs northward
-- 🔐 Certificate management automation — because nothing says "Monday morning" like an expired cert
-- 💾 Commvault backup optimisation & reporting
-- 🆔 Infrastructure as Code (IaC)
+A football game in the spirit of Sensible Soccer — old-school top-down arcade action, no VAR in sight.
 
 ---
 
-*"It works on my machine" — then we'll ship your machine to Azure.* 🚀
+I build the tools I need instead of paying for them. 🚀
+
