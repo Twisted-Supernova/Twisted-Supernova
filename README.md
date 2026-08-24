@@ -2,7 +2,7 @@
 
 IT by trade, tinkerer by habit.
 
-I build small tools that solve real problems — usually because I got annoyed enough to fix it myself.
+I build small tools that solve real problems.
 
 ## What I'm into right now
 
