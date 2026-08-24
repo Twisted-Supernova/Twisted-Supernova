@@ -1,6 +1,6 @@
 # Hi, I'm Twisted-Supernova🤙
 
-IT by trade, tinkerer by habit. I build small tools that solve real problems.
+IT by trade, tinkerer by habit.
 
 ## What I'm into right now
 
